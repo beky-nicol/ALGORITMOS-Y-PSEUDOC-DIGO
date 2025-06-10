@@ -1,1 +1,2 @@
-# ALGORITMOS-Y-PSEUDOC-DIGO
+**ALGORITMOS Y PSEUDOCÓDIGO**
+Este recurso gamificado introduce a los estudiantes en el mundo de los algoritmos y el pseudocódigo de forma interactiva y divertida. A través de actividades como arrastrar y soltar, ordenar pasos, preguntas de opción múltiple y completar espacios en blanco, los estudiantes desarrollan habilidades básicas de lógica y pensamiento computacional. Ideal para principiantes, fomenta el aprendizaje autónomo, la exploración y el ensayo-error en un entorno visualmente atractivo.
